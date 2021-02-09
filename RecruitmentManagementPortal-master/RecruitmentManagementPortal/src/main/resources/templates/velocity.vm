@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>RM_Portal</title>
+    <style>
+        div.double {
+            border-style: double;
+            height: 100%;
+            width: 60%;
+            margin:10%;
+            margin-top: 1%;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="double">
+        <div>
+            <h2>
+                <center>AGILE SOFT SYSTEM Recruitment Drive</center>
+            </h2><hr>
+            <br>
+            <br>
+        </div>
+
+        <div style="margin-left: 20px">
+            <div>
+                <p> Hello All,</p>
+                <p> Please do let me know if you have any reference for below active positions.</p>
+            </div>
+            <div>
+                <table>
+                    <tr>
+                        <td>
+                            <strong>
+                                <span>Designation </span>
+                            </strong>
+                        </td>
+                        <td>
+                            <strong>
+                                <span>: Sr. Software Engineer</span>
+                            </strong>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <strong>
+                                <span>Experience </span>
+                            </strong>
+                        </td>
+                        <td>
+                            <strong>
+                                <span>: 7 to 10 years</span>
+                            </strong>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <strong>
+                                <span>Positions </span>
+                            </strong>
+                        </td>
+                        <td>
+                            <strong>
+                                <span>: 2 </span>
+                            </strong>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <br>
+            <br>
+            <div>
+                <strong>Job Description : </strong>
+                <ul>
+                    <li>First point</li>
+                    <li>Second point</li>
+                    <li>Third point</li>
+                    <li>Forth point</li>
+                    <li>Fifth point</li>
+                    <li>Sixth point</li>
+                    <li>Seventh point</li>
+                    <li>Eighth point</li>
+                </ul>
+            </div>
+            <div>
+                <strong>Good to have knowledge of : </strong>
+                <ul>
+                    <li>First point</li>
+                    <li>Second point</li>
+                    <li>Third point</li>
+                    <li>Forth point</li>
+                    <li>Fifth point</li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
